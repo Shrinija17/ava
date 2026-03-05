@@ -3,3 +3,6 @@ dist/
 out/
 .DS_Store
 *.log
+.env
+ava-memory.json
+memory/daily/
